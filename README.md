@@ -1,5 +1,8 @@
-# End-of-Time
+# Newton's End of Time
+
 The End of Time according to the Torah and Sir Isaac Newton.
+
+These are all free voices; polly is only free for one year.
 
 * [Jeffrey](http://lightwizzard.com/audio/end-of-time/000001.mp3)
 * [Polly](http://lightwizzard.com/audio/end-of-time/000001A.mp3)
