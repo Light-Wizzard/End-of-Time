@@ -24,6 +24,8 @@ Polly is the free verion; the paid sounds much better, but I cannot make a test 
 
 You have to pay to get better quality.
 
+* [Amazon Polly](https://aws.amazon.com/polly/)
+* [Google](https://cloud.google.com/text-to-speech)
 * [Speechify](https://speechify.com)
 * [Murf](https://murf.ai)
 * [Descript](https://www.descript.com)
