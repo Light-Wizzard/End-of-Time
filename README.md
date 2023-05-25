@@ -27,3 +27,4 @@ Free
 
 * [From Text to Speech](http://www.fromtexttospeech.com/)
 * [ttsfree](https://ttsfree.com/)
+* [Voice Maker](https://voicemaker.in/)
