@@ -17,11 +17,6 @@ These are all free voices; polly is only free for one year.
 * [Mathew](http://lightwizzard.com/audio/end-of-time/mathew-voicemaker.in-speech.mp3)
 * [Joey - TTS MP3](http://lightwizzard.com/audio/end-of-time/joey-ttsMP3.mp3)
 * [Matterw - TTSMP3](http://lightwizzard.com/audio/end-of-time/matterw-ttsMP3.mp3)
-* [](http://lightwizzard.com/audio/end-of-time/)
-* [](http://lightwizzard.com/audio/end-of-time/)
-* [](http://lightwizzard.com/audio/end-of-time/)
-
-
 
 My voice will change throughout the day, I have [Pleurisy](https://www.mayoclinic.org/diseases-conditions/pleurisy/symptoms-causes/syc-20351863), it hurts to talk for long.
 
