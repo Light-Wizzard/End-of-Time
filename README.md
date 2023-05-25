@@ -7,13 +7,11 @@ The End of Time according to the Torah and Sir Isaac Newton.
 
 My voice will change throughout the day, I have [Pleurisy](https://www.mayoclinic.org/diseases-conditions/pleurisy/symptoms-causes/syc-20351863), it hurts to talk for long.
 
-Polly is the free verion; the paid sounds much better, but I cannot make a test file to listen to.
+Polly is the free verion; the paid sounds much better, but I cannot make a test file to post.
+
+You have to pay to get better quality.
 
 * [Speechify](https://speechify.com)
 * [Murf](https://murf.ai)
 * [Descript](https://www.descript.com)
 * [Speechelo](https://speechelo.com/#demo)
-
-If I can afford to get the software, this is what I am thinking about, but the reviews are not the nicest. This company is insane; not sure what their deal is, but most complaints are not about the product; but the one-time product, they make you that first; they upgrade to pro, which is a subscription.
-
-
