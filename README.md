@@ -36,6 +36,7 @@ You have to pay to get better quality.
 
 Free
 
+* [Eleven Labs](https://beta.elevenlabs.io)
 * [From Text to Speech](http://www.fromtexttospeech.com/)
 * [ttsfree](https://ttsfree.com/)
 * [Voice Maker](https://voicemaker.in/)
