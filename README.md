@@ -1,6 +1,8 @@
 # Newton's End of Time
 
 The End of Time according to the Torah and Sir Isaac Newton.
+This is a book that has code that goes with it.
+This is going to be a PDF, Printed Book via Lulu Publisher, and an Audiobook.
 
 These are all free voices; polly is only free for one year.
 
