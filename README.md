@@ -9,6 +9,8 @@ These are all free voices; polly is only free for one year.
 * [Jeffrey](http://lightwizzard.com/audio/end-of-time/000001.mp3)
 * [Polly](http://lightwizzard.com/audio/end-of-time/000001A.mp3)
 * [David](http://lightwizzard.com/audio/end-of-time/000001B.mp3)
+* [Antoni](http://lightwizzard.com/audio/end-of-time/Antoni-ElevenLabs.mp3)
+* [Josh](http://lightwizzard.com/audio/end-of-time/Josh-ElevenLabs.mp3)
 * [Chris](http://lightwizzard.com/audio/end-of-time/ttsfree-chris.mp3)
 * [Erir](http://lightwizzard.com/audio/end-of-time/ttsfree-eric.mp3)
 * [Guy](http://lightwizzard.com/audio/end-of-time/ttsfree-guy.mp3)
