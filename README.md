@@ -1,5 +1,7 @@
 # Newton's End of Time
 
+http://lightwizzard.com/audio/Audiobooks/TrinaryTimeCapsule/Trinary-Time-Capsule.mp3
+
 The End of Time according to the Torah and Sir Isaac Newton.
 This is a book that has code that goes with it.
 This is going to be a PDF, Printed Book via Lulu Publisher, and an Audiobook.
