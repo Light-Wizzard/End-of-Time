@@ -11,9 +11,9 @@ Complete Audio
 * [Audio Trinary Time Capsule Complete](http://lightwizzard.com/audio/Audiobooks/TrinaryTimeCapsule/Trianry.Time.Capsule.mp3)
 
 By Chapters
-* [Audio Trinary Time Capsule Complete](http://lightwizzard.com/audio/Audiobooks/TrinaryTimeCapsule/Title.mp3)
-* [Audio Trinary Time Capsule Complete](http://lightwizzard.com/audio/Audiobooks/TrinaryTimeCapsule/Chapter.Wokeup.mp3)
-* [Audio Trinary Time Capsule Complete](http://lightwizzard.com/audio/Audiobooks/TrinaryTimeCapsule/Chapter.Masons.mp3)
-* [Audio Trinary Time Capsule Complete](http://lightwizzard.com/audio/Audiobooks/TrinaryTimeCapsule/Chapter.Trianry.mp3)
+* [Audio Trinary Time Capsule Tile](http://lightwizzard.com/audio/Audiobooks/TrinaryTimeCapsule/Title.mp3)
+* [Audio Trinary Time Capsule Woke up](http://lightwizzard.com/audio/Audiobooks/TrinaryTimeCapsule/Chapter.Wokeup.mp3)
+* [Audio Trinary Time Capsule Masons](http://lightwizzard.com/audio/Audiobooks/TrinaryTimeCapsule/Chapter.Masons.mp3)
+* [Audio Trinary Time Capsule Trinary](http://lightwizzard.com/audio/Audiobooks/TrinaryTimeCapsule/Chapter.Trianry.mp3)
 
 I plan to clone my voice to make AI Audiobooks, I am going to also read the books.
