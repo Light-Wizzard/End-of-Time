@@ -16,4 +16,4 @@ By Chapters
 * [Audio Trinary Time Capsule Masons](http://lightwizzard.com/audio/Audiobooks/TrinaryTimeCapsule/Chapter.Masons.mp3)
 * [Audio Trinary Time Capsule Trinary](http://lightwizzard.com/audio/Audiobooks/TrinaryTimeCapsule/Chapter.Trianry.mp3)
 
-I plan to clone my voice to make AI Audiobooks, I am going to also read the books.
+
